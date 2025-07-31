@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal web page with links to previous projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilneth/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Thiago Silva Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilneth/portfolio/issues"
+  },
+  "homepage": "https://github.com/hilneth/portfolio#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  }
+}
